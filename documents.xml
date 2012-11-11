@@ -1,0 +1,14 @@
+<add>
+<doc>
+  <field name="id">A</field>
+  <field name="name">Das erste Dokument</field>
+</doc>
+<doc>
+  <field name="id">B</field>
+  <field name="name">Das zweite Dokument</field>
+</doc>
+<doc>
+  <field name="id">C</field>
+  <field name="name">Das dritte Dokument</field>
+</doc>
+</add>
